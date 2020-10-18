@@ -1,0 +1,6 @@
+0	moscow
+1	kazan
+2	spb
+3	ryazan
+4	tver
+5	voronezh
